@@ -91,7 +91,7 @@ The dashboards is designed using Microsoft Power BI which displays:
 
 <h2>Overview</h2>
 
-![Marketing Anlysis](dashboard/Overview.png)
+![Marketing Anlysis](Dashboard/Overview.png)
 
 <h2>Conversion Detail</h2>
 
