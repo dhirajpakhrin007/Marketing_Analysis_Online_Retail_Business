@@ -91,19 +91,23 @@ The dashboards is designed using Microsoft Power BI which displays:
 
 <h2>Overview</h2>
 
-![Marketing Analysis](dashboard/Overview.png)
+![Marketing Anlysis](dashboard/Overview.png)
 
 <h2>Conversion Detail</h2>
 
-![Marketing Analysis](dashboard/Overview.png)
+![Marketing Anlysis](Dashboard/ConversionDetails.png)
 
 <h2>Customer Engagement</h2>
 
-![Marketing Analysis](dashboard/Overview.png)
+![Marketing Anlysis](Dashboard/CustomerReviewDetails.png)
 
 <h2>Customer Feedback</h2>
 
-![Marketing Analysis](dashboard/Overview.png)
+![Marketing Anlysis](Dashboard/SocialMediaDetails.png)
+
+<h2>Data Model</h2>
+
+![Marketing Anlysis](Dashboard/datamodel.png)
 
 
 ---
